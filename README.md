@@ -46,4 +46,3 @@
 
 <h6 align="left">Implementar uma função recursiva para calcular o máximo divisor comum (MDC) de dois números:</h6>
 <img src="MDC.png"></img>
-###
