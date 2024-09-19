@@ -35,13 +35,15 @@
 ###
 
 <h6 align="left">Implementar uma função recursiva para calcular o fatorial de um número:</h6>
+<img src="fatorial.png"></img>
 
 ###
 
 <h6 align="left">Implementar uma função recursiva para calcular o N-ésimo termo da sequência de Fibonacci:</h6>
+<img src="fibonacci.png"></img>
 
 ###
 
 <h6 align="left">Implementar uma função recursiva para calcular o máximo divisor comum (MDC) de dois números:</h6>
-
+<img src="MDC.png"></img>
 ###
